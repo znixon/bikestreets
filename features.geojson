@@ -2,7 +2,10 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {"stroke-width": 3},
+      "properties": {
+        "stroke-width": 3,
+        "TYPE": "EW"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -172,7 +175,10 @@
     },
     {
       "type": "Feature",
-      "properties": {"stroke-width": 3},
+      "properties": {
+        "stroke-width": 3,
+        "TYPE": "EW"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -222,7 +228,10 @@
     },
     {
       "type": "Feature",
-      "properties": {"stroke-width": 3},
+      "properties": {
+        "stroke-width": 3,
+        "TYPE": "EW"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -456,7 +465,10 @@
     },
     {
       "type": "Feature",
-      "properties": {"stroke-width": 3},
+      "properties": {
+        "stroke-width": 3,
+        "TYPE": "EW"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -474,7 +486,10 @@
     },
     {
       "type": "Feature",
-      "properties": {"stroke-width": 3},
+      "properties": {
+        "stroke-width": 3,
+        "TYPE": ""
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1000,7 +1015,9 @@
     },
     {
       "type": "Feature",
-      "properties": {"stroke-width": 3},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1054,7 +1071,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1196,7 +1215,10 @@
     },
     {
       "type": "Feature",
-      "properties": {"stroke-width": 3},
+      "properties": {
+        "stroke-width": 3,
+        "TYPE": "EW"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1230,7 +1252,9 @@
     },
     {
       "type": "Feature",
-      "properties": {"stroke-width": 3},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1248,7 +1272,9 @@
     },
     {
       "type": "Feature",
-      "properties": {"stroke-width": 3},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1266,7 +1292,10 @@
     },
     {
       "type": "Feature",
-      "properties": {"stroke-width": 3},
+      "properties": {
+        "stroke-width": 3,
+        "TYPE": ""
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1468,7 +1497,9 @@
     },
     {
       "type": "Feature",
-      "properties": {"stroke-width": 3},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1490,7 +1521,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1552,7 +1585,9 @@
     },
     {
       "type": "Feature",
-      "properties": {"stroke-width": 3},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1594,7 +1629,9 @@
     },
     {
       "type": "Feature",
-      "properties": {"stroke-width": 3},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1692,7 +1729,9 @@
     },
     {
       "type": "Feature",
-      "properties": {"stroke-width": 3},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1770,7 +1809,9 @@
     },
     {
       "type": "Feature",
-      "properties": {"stroke-width": 3},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1856,7 +1897,9 @@
     },
     {
       "type": "Feature",
-      "properties": {"stroke-width": 3},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1874,7 +1917,9 @@
     },
     {
       "type": "Feature",
-      "properties": {"stroke-width": 3},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -2485,7 +2530,8 @@
     {
       "type": "Feature",
       "properties": {
-        "caution": "leetsdale-no-crosswalk"
+        "caution": "leetsdale-no-crosswalk",
+        "stroke-width": ""
       },
       "geometry": {
         "coordinates": [
@@ -2499,7 +2545,8 @@
     {
       "type": "Feature",
       "properties": {
-        "e-w": "10-12"
+        "e-w": "10-12",
+        "stroke-width": 3
       },
       "geometry": {
         "coordinates": [
@@ -2826,7 +2873,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3,
+        "TYPE": "EW"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -2964,7 +3014,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -2994,7 +3046,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -3016,7 +3070,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -3042,7 +3098,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -3096,7 +3154,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -3126,7 +3186,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -3172,7 +3234,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -3266,7 +3330,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -3308,7 +3374,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -3890,7 +3958,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -3908,7 +3978,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -3926,7 +3998,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -3944,7 +4018,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -4014,7 +4090,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -4052,7 +4130,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -4078,7 +4158,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -4096,7 +4178,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -4398,7 +4482,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -4592,7 +4678,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -4750,7 +4838,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -4836,7 +4926,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -4874,7 +4966,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -4932,7 +5026,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -5034,7 +5130,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -5144,7 +5242,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
@@ -5162,7 +5262,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke-width": 3
+      },
       "geometry": {
         "coordinates": [
           [
